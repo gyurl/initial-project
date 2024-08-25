@@ -8629,7 +8629,7 @@ h1, h2, h3, h4, h5,
         color: #fff; }
 
 .ftco-about .img-about {
- width: 30%;
+  width: 30%;
   height: 40%;
   z-index: 0;
   position: relative; }
